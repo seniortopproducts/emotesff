@@ -1,1 +1,100 @@
-
+[{
+    "id": 2,
+    "question": "What is the number 1 guy avatar",
+    "image": "https://i.ibb.co/tYT7Bvr/OIP.jpg",
+    "chance1": "Evey",
+    "chance2": "Mary",
+    "chance3": "Adam",
+    "chance4": "Mick",
+    "official": 3
+},{
+    "id": 1,
+    "question": "What is the best remote place to hid in",
+    "image": "https://i.ibb.co/tYT7Bvr/OIP.jpg",
+    "chance1": "factory",
+    "chance2": "near the ocean",
+    "chance3": "house",
+    "chance4": "may be",
+    "official": 2
+},{
+    "id": 3,
+    "question": "What is the name of the popular car",
+    "image": "https://i.ibb.co/tYT7Bvr/OIP.jpg",
+    "chance1": "truck",
+    "chance2": "car",
+    "chance3": "Mega zord",
+    "chance4": "patch note",
+    "official": 4
+},{
+    "id": 5,
+    "question": "What is NOT the main goal in free fire",
+    "image": "https://i.ibb.co/tYT7Bvr/OIP.jpg",
+    "chance1": "to be first",
+    "chance2": "to be the winner",
+    "chance3": "he be good",
+    "chance4": "to be the last one alive",
+    "official": 3
+},{
+    "id": 6,
+    "question": "Who is avartar",
+    "image": "https://i.ibb.co/tYT7Bvr/OIP.jpg",
+    "chance1": "maximum",
+    "chance2": "adam",
+    "chance3": "kla",
+    "chance4": "hytoa",
+    "official": 2
+},{
+    "id": 8,
+    "question": "What does the game say when you are the winner",
+    "image": "https://i.ibb.co/tYT7Bvr/OIP.jpg",
+    "chance1": "yes",
+    "chance2": "Winner",
+    "chance3": "BooYah!",
+    "chance4": "Yahhhhh!",
+    "official": 3
+},{
+    "id": 9,
+    "question": "How much does Kla go down on a level 2 punch to the head?",
+    "image": "https://i.ibb.co/tYT7Bvr/OIP.jpg",
+    "chance1": "250",
+    "chance2": "275",
+    "chance3": "200",
+    "chance4": "332",
+    "official": 2
+},{
+    "id": 10,
+    "question": "WHAT YEAR THEY CREATED FREE FIRE",
+    "image": "https://i.ibb.co/tYT7Bvr/OIP.jpg",
+    "chance1": "1999",
+    "chance2": "2000",
+    "chance3": "2005",
+    "chance4": "2017",
+    "official": 4
+},{
+    "id": 11,
+    "question": "WHICH OF THIS DOES NO HARM",
+    "image": "https://i.ibb.co/tYT7Bvr/OIP.jpg",
+    "chance1": "GRANADA, PAN AND BATE",
+    "chance2": "GRANADA AND AUTO",
+    "chance3": "GLOO WALL",
+    "chance4": "MACHINE GUN",
+    "official": 3
+},{
+    "id": 12,
+    "question": "WHICH CAN KILL IN ONE TIME",
+    "image": "https://i.ibb.co/tYT7Bvr/OIP.jpg",
+    "chance1": "P90",
+    "chance2": "SCAR",
+    "chance3": "SHOTGUN",
+    "chance4": "GRANADA",
+    "official": 4
+},{
+    "id": 13,
+    "question": "Who can make a report?",
+    "image": "https://i.ibb.co/tYT7Bvr/OIP.jpg",
+    "chance1": "ALL IN PURGATORY",
+    "chance2": "ALL IN BERMUDA",
+    "chance3": "ALL IN CLASSIC ONLY",
+    "chance4": "THE DEVELOPERS",
+    "official": 3
+}]
